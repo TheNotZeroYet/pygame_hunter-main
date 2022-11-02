@@ -11,6 +11,7 @@ from checkHolder import CheckHolder
 from heartHolder import HeartHolder
 from man import Man
 
+# Ver 0.1
 pg.init()
 
 WIDTH = 1200
